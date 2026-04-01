@@ -9,17 +9,17 @@ I'm a developer, digital consultant, and tech enthusiast bridging the gap betwee
 - **Web & Educational Tech:** Creating interactive platforms, quizzes, and learning resources (`prompten-lernen`, websites like `sabine-website` and `spreewald-reise`).
 
 ## 🛠️ Core Technologies & Interests
-- **AI & Data:** Google Vertex AI, Dialogflow (ES/CX), Conversational AI, Trend Analysis, Python
+- **AI & Data:** Google Vertex AI, ADK, Antigravity ADE, from DevOps to AgentOps 
 - **Web & Cloud:** React (Frontend), Google Cloud Platform (GCP), REST APIs (News API), Modern Web Development
 - **Consulting:** Digital Strategy, SME Digitalization
 
 ## 🌱 Currently Learning
 - Advanced Orchestration of AI Agents & GenAI tools
-- Deepening architectural knowledge in Google Cloud and Dialogflow CX
+- Deepening architectural knowledge in Google Cloud and TPUs
 
 ## 💞️ Looking to Collaborate on
 - **GCP & Cloud Infrastructure** projects
-- **Chatbot & AI Agent Development** 
+- **Corporate Symbiogenesis & AI Agent Development** 
 - Innovative **digitalization strategies** for businesses
 
 ## 📫 Let's Connect!
